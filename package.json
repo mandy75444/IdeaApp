@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "db": "^5.1.3",
     "express": "^4.18.2",
+    "mongo": "^0.1.0",
+    "mongodb-connection-string-url": "^3.0.0",
     "mongoose": "^8.1.0"
   }
 }
